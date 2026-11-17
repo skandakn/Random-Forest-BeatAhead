@@ -1,0 +1,32 @@
+{
+  "schema_name": "BeatAhead_Matrix_A_Feature_Schema",
+  "feature_count": 26,
+  "feature_order": [
+    "ecg_hr_mean",
+    "ecg_hr_std",
+    "ecg_rr_sdnn",
+    "ecg_rr_rmssd",
+    "ecg_pnn50",
+    "ecg_r_amp_mv",
+    "ecg_qrs_width_ms",
+    "ecg_sqi",
+    "pat_median_ms",
+    "pat_iqr_ms",
+    "pat_valid_fraction",
+    "pat_valid",
+    "ppg_pulse_amp",
+    "ppg_perfusion_index",
+    "ppg_crest_time_ms",
+    "ppg_sqi",
+    "spo2_mean",
+    "spo2_min",
+    "spo2_std",
+    "spo2_desat_count",
+    "st_obs_mean",
+    "st_obs_median",
+    "st_obs_min",
+    "st_obs_std",
+    "st_delta_baseline",
+    "st_slope_mm_min"
+  ]
+}
